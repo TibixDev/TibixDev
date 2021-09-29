@@ -5,6 +5,7 @@ I'm [Tibix](https://github.com/TibixDev)！I'm a full-stack software engineer wh
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fuloptibi03@gmail.com)](mailto:fuloptibi03@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tibix)](https://github.com/tibix)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tibixdev)
+![discord](https://img.shields.io/badge/Discord-Tibix%235166-blueviolet)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tibixdev&show_icons=true&hide_border=true">
 
@@ -13,9 +14,9 @@ I'm [Tibix](https://github.com/TibixDev)！I'm a full-stack software engineer wh
 - 🌱 Languages, Databases and Tools: 
 
     <div>
-        <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+        <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png>
         <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-        <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+        <img height="30" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg">
         <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
         <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
         <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
