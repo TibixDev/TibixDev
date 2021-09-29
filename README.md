@@ -19,6 +19,7 @@ I'm [Tibix](https://github.com/TibixDev)！I'm a full-stack software engineer wh
         <img height="30" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
         <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
         <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+        <img height="30" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
         <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
         <img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         <img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
