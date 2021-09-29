@@ -11,16 +11,13 @@ I'm [Tibix](https://github.com/TibixDev)！I'm a full-stack software engineer wh
 
 ## 🧐 About
 - 📫 How to reach me: fuloptibi03@gmail.com
-- 🌱 Languages, Databases and Tools: 
+- 🌱 Current Languages, Databases and Tools: 
 
     <div>
         <img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
         <img height="30" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
         <img height="30" alt="Vue" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png">
-        <img height="30" alt="jQuery" src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png">
         <img height="30" alt="MongoDB" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
-        <img height="30" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-        <img height="30" alt="MySQL" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
         <img height="30" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
         <img height="30" alt="Visual Studio Code" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
     </div>
