@@ -1,6 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
 I'm [Tibix](https://github.com/TibixDev)！I'm a full-stack software engineer who is passionate about JS, and open-source.
+I sometimes write about stuff I find interesting [here](https://tibix.prose.sh/).
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fuloptibi03@gmail.com)](mailto:fuloptibi03@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tibix)](https://github.com/tibix)
