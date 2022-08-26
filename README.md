@@ -4,7 +4,7 @@ I'm [Tibix](https://github.com/TibixDev)！I'm a full-stack software engineer wh
 I sometimes write about stuff I find interesting [here](https://tibix.prose.sh/).
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fuloptibi03@gmail.com)](mailto:fuloptibi03@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tibix)](https://github.com/tibix)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tibix)](https://github.com/TibixDev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tibixdev)
 ![discord](https://img.shields.io/badge/Discord-Tibix%235166-blueviolet)
 
