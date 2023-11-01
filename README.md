@@ -8,7 +8,7 @@ I sometimes write about stuff I find interesting [here](https://tibix.prose.sh/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tibixdev)
 ![discord](https://img.shields.io/badge/Discord-Tibix%235166-blueviolet)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tibixdev&show_icons=true&hide_border=true">
+![](https://github-readme-stats.vercel.app/api?username=tibixdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🧐 About
 - 📫 How to reach me: fuloptibi03@gmail.com
